@@ -1,0 +1,61 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 3000px;
+  text-align: left;
+  padding-left: 30px;
+}
+
+.sitename {
+  padding-right: 10px;
+  padding-top: 5px;
+}
+
+nav {
+  font-style: white;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 15px;
+}
+
+.logo{
+  width: 36px;
+  height: 32px;
+}
+
+#odellbeckham{ 
+  height: 300px;
+  width: 100%;
+
+
+ }
+
+article {
+  margin-left: 10%;
+  width: 60%;
+}
+
+h1 {
+  font-size: 46px;
+}
+
+.story_image {
+  width: 100%;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, Arial, sans-serif;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
